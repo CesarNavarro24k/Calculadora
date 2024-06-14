@@ -1,0 +1,6 @@
+Las librerías utilizadas en el proyecto para hacer la
+calculadora son las siguientes:
+1. librería math, se encarga de realizar las operaciones matemáticas
+cómo hacer la raíz cuadrada de los números ingresados.
+2. librería tkinter, se encarga de mostrar la calculadora, los botones de números.
+Los botones de paréntesis, sumas y demás operaciones matemáticas se realizan con está librería.
